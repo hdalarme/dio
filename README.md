@@ -20,3 +20,7 @@ Como criar um front-end de um e-commerce utilizando Angular
 [Criando um Banco Digital com Java e Orientação a Objetos](https://github.com/hdalarme/banco-digital-JAVA)
 
 Criando um Banco Digital com Java e Orientação a Objetos
+
+[Explorando Padrões de Projetos na Prática com Java](https://github.com/hdalarme/padroes-projeto-spring)
+
+Explorando Padrões de Projetos na Prática com Java
