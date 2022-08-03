@@ -12,3 +12,7 @@ API desenvolvida com Spring Boot e Font-End desenvolvida em Angular
 [Introdução Prática ao TypeScript](https://github.com/hdalarme/Introducao-Pratica-ao-TypeScript)
 
 Introdução Prática ao TypeScript, codigos de exemplo
+
+[Como criar um front-end de um e-commerce utilizando Angular](https://github.com/hdalarme/AngularFrontECommerce)
+
+Como criar um front-end de um e-commerce utilizando Angular
